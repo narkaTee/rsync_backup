@@ -1,0 +1,1 @@
+* */2 * * * rsync_backup $HOME/run_backup.rb

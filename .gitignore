@@ -1,0 +1,6 @@
+hosts/
+backups.yaml
+.viminfo
+.ssh/*
+!.ssh/config
+.bash*
